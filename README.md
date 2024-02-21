@@ -1,4 +1,4 @@
-👣🎨 Stylish Footers crafted using HTML & CSS
+# 👣🎨 Stylish Footers crafted using HTML & CSS
 
 Welcome to the "Footer" repository! This project showcases a collection of stylish and functional footers created using HTML and CSS. 
 Whether you're wrapping up a webpage or an entire website, these footers provide attractive and informative endings to your content.
